@@ -5,7 +5,7 @@
 Ce projet a été réalisé dans le cadre de ma reconversion vers les métiers de la data.  
 Il s’agit d’un **tableau de bord interactif Power BI** conçu à partir d’un **jeu de données de plus de 100 000 lignes** portant sur les salaires dans le secteur de la tech.
 
-👉 [Voir le dashboard (lien à insérer)]()
+👉 [Voir le dashboard](https://github.com/ahcene33/Analyse_data_compagny/blob/main/business_case.pbix)
 
 ## 🔧 Outils et technologies utilisés
 
